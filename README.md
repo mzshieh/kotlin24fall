@@ -1,7 +1,7 @@
 # Kotlin Programming, 2022 Spring
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nycu.edu.tw) mzshieh@nycu.edu.tw
-+   Teaching Assistants: 陳吉遠
++   Teaching Assistants: [陳吉遠](mailto:lin.cs09@nycu.edu.tw) lin.cs09@nycu.edu.tw
 +   Lectures will be given online via [Google Meet](https://meet.google.com/ukj-mrcw-fyt)
 
 ## Course Objectives
