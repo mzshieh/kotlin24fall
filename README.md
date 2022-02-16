@@ -1,7 +1,8 @@
-# Kotlin Programming, 2020 Fall
+# Kotlin Programming, 2022 Spring
 
-+   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nctu.edu.tw) mzshieh@nctu.edu.tw
-+   Teaching Assistants: [陳鈺清](mailto:yuchingchen.tw@gmail.com) yuchingchen.tw@gmail.com
++   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nycu.edu.tw) mzshieh@nycu.edu.tw
++   Teaching Assistants: 陳吉遠
++   Lectures will be given online via [Google Meet](https://meet.google.com/ukj-mrcw-fyt)
 
 ## Course Objectives
 
@@ -10,16 +11,10 @@
 
 ## Textbook
 
-+ [Kotlin Programming: The Big Nerd Ranch Guide 1st Edition](https://www.amazon.com/Kotlin-Programming-Nerd-Ranch-Guide-ebook/dp/B07FXQ7SQN)
-+ [中文版](https://www.tenlong.com.tw/products/9789864344796)
++ [Kotlin Programming: The Big Nerd Ranch Guide 2nd Edition](https://www.amazon.com/Kotlin-Programming-Ranch-Guide-Guides-dp-0136891055/dp/0136891055)
++ [中文版](https://www.tenlong.com.tw/products/9789864344796?list_name=srh)
 
-## References
-
-+ [Kotlin Koans](https://kotlinlang.org/docs/tutorials/koans.html)
-+ [Head First Kotlin: A Brain-Friendly Guide 1st Edition](https://www.amazon.com/Head-First-Kotlin-Brain-Friendly-Guide-ebook/dp/B07NPZ21QP)
-+ References for Android: TBD
-
-## Lecture Notes
+## 2020 Fall Lecture Notes
 
 + [Lecture 1](https://hackmd.io/@truckski/BJbFMT_Hv)
 + [Lecture 2](https://hackmd.io/@truckski/ByliKf28D)
@@ -33,14 +28,14 @@
 + [Lecture 10](https://hackmd.io/@truckski/ryTM7s25D)
 + [Lecture 11](https://hackmd.io/@truckski/BkD5wo29P)
 
-## Exercise
+## 2020 Fall Exercise
 
 + [Exercise 1](https://hackmd.io/@yuchingtw/By82yIvSw)
 + [Exercise 2](https://drive.google.com/file/d/1V5OUj-BGHrAE1hxt0dlIe5QRoGJFDl1c/view)
 + [Exercise 3](https://drive.google.com/file/d/1GsD0RKXTItXNv_SCkEOe5d0RNIgReRFl/view)
 + [Exercise 4](https://drive.google.com/file/d/12Yb3vTBiu6HWqP3sq4OLRe_QMGoohlmN/view)
 
-## Android Programming
+## 2020 Fall Android Programming
 
 + [Installation (Mac OS)](https://hackmd.io/@yuchingtw/By5HDQxcw)
 + [Installation (Windows 10)](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/rkzf4SW9D)
@@ -49,7 +44,7 @@
 + [Lecture 2](https://hackmd.io/@truckski/B1FZEGrjw)
 + [Lecture 3](https://hackmd.io/@truckski/By2N8Id2P)
 
-## Previous Lectures and Materials
+## 2020 Spring Lectures and Materials
 
 + [Lecture Videos](https://drive.google.com/open?id=10WexRjBzionhAyHhyqT4qDNpN2-mao9q)
 + Lecture notes
@@ -74,14 +69,8 @@
 
 ## Term Poject
 
-1. Text version: Generation of Minesweeper levels
-    +   [Specification](https://hackmd.io/@yuchingtw/S1S3ypktw)
-    +   Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSfmv0MkD59Zb4zdfFWU3dNsh0E_F5czr2RLgViQ5tU0eEvD7Q/viewform)
-    +   Due: 23:59:59, 3 Dec, 2020. 
-2. Android app: Minesweeper game
-    +   [Specification](https://hackmd.io/4vvVef4IQ5GzektF4hS2bw)
-    +   Submit [here](https://docs.google.com/forms/d/1TRm8jAprSwkuZvRLzWlR-HnKDofFPz-NmGHRGax--gk)
-    +   Due: 23:59:59, 7 Jan, 2021.
+1. Text version: Wordle Variants
+2. Android app: Wordle Variants
    
 ## Grading Policy
 
