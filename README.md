@@ -1,7 +1,9 @@
 # Kotlin Programming, 2022 Spring
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nycu.edu.tw) mzshieh@nycu.edu.tw
-+   Teaching Assistants: [陳吉遠](mailto:lin.cs09@nycu.edu.tw) lin.cs09@nycu.edu.tw
++   Teaching Assistants: 
+    +   [陳吉遠](mailto:lin.cs09@nycu.edu.tw) lin.cs09@nycu.edu.tw
+    +   [黃彥儒](mailto:yrh.c@nycu.edu.tw) yrh.c@nycu.edu.tw
 +   Lectures will be given online via [Google Meet](https://meet.google.com/ukj-mrcw-fyt)
 
 ## Course Objectives
@@ -13,6 +15,11 @@
 
 + [Kotlin Programming: The Big Nerd Ranch Guide 2nd Edition](https://www.amazon.com/Kotlin-Programming-Ranch-Guide-Guides-dp-0136891055/dp/0136891055)
 + [中文版](https://www.tenlong.com.tw/products/9789864344796?list_name=srh)
+
+## Lecture Notes
+
++ [Lecture 1](https://hackmd.io/@truckski/rkMSYDVl9)
++ [Lecture 2](https://hackmd.io/@truckski/BJbFMT_Hv)
 
 ## 2020 Fall Lecture Notes
 
