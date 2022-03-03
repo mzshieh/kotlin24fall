@@ -19,7 +19,7 @@
 ## Lecture Notes
 
 + [Lecture 1](https://hackmd.io/@truckski/rkMSYDVl9)
-+ [Lecture 2](https://hackmd.io/@truckski/BJbFMT_Hv)
++ [Lecture 2](https://hackmd.io/@truckski/BkS91d4eq)
 
 ## 2020 Fall Lecture Notes
 
