@@ -5,6 +5,7 @@
     +   [陳吉遠](mailto:lin.cs09@nycu.edu.tw) lin.cs09@nycu.edu.tw
     +   [黃彥儒](mailto:yrh.c@nycu.edu.tw) yrh.c@nycu.edu.tw
 +   Lectures will be given online via [Google Meet](https://meet.google.com/ukj-mrcw-fyt)
++   [Lecture video clips](https://drive.google.com/drive/folders/1CptCPprX9H4_z4Sc-XVPgwDQT1RtXEPi?usp=sharing)
 
 ## Course Objectives
 
