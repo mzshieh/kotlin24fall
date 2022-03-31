@@ -82,8 +82,10 @@
 
 ## Term Poject
 
-1. Text version: Wordle Variants
-2. Android app: Wordle Variants
+1. Text version: Nerdle mini
+    + [Specification](https://hackmd.io/@r1235613/Bk34wi6f5)
+    + Resource 
+3. Android app: Wordle Variants
    
 ## Grading Policy
 
