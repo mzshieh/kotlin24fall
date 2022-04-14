@@ -26,6 +26,8 @@
 + [Lecture 5](https://hackmd.io/@truckski/rykBq4xM5)
 + [Lecture 6](https://hackmd.io/@truckski/rklQsElM9)
 + [Lecture 7](https://hackmd.io/@truckski/BJpRJhG75)
++ [Lecture 8](https://hackmd.io/@truckski/B1YzxXHNc)
++ [Lecture 9](https://hackmd.io/@truckski/SJs_lmHV9)
 
 ## 2020 Fall Lecture Notes
 
