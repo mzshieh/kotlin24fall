@@ -30,6 +30,7 @@
 + [Lecture 9](https://hackmd.io/@truckski/SJs_lmHV9)
 + [Lecture 10](https://hackmd.io/@truckski/ry_KVvAE5)
 + [Lecture 11](https://hackmd.io/@truckski/SkgR4vRV9)
++ [Android Programming](https://hackmd.io/@truckski/S1GJ8W5U9)
 
 ## 2020 Fall Lecture Notes
 
