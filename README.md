@@ -91,6 +91,7 @@
     + [Specification](https://hackmd.io/@r1235613/Bk34wi6f5)
     + [Resource](https://hackmd.io/@truckski/HJsGz2zX9)
 3. Android app: Wordle Variants
+    + [Specification](https://hackmd.io/@truckski/BJu2AngDc)
    
 ## Grading Policy
 
