@@ -2,8 +2,8 @@
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nycu.edu.tw) mzshieh@nycu.edu.tw
 +   Teaching Assistants: 
-    +   [陳吉遠](mailto:lin.cs09@nycu.edu.tw) lin.cs09@nycu.edu.tw
-    +   [黃彥儒](mailto:yrh.c@nycu.edu.tw) yrh.c@nycu.edu.tw
+    +   [郭子緯](mailto:vincentinttsh.cs11@nycu.edu.tw) vincentinttsh.cs11@nycu.edu.tw
+    +   [賴俊賓](mailto:xyz607xx@gmail.com) xyz607xx@gmail.com
 +   Lectures will be given online via [Google Meet](https://meet.google.com/ukj-mrcw-fyt)
 +   [Lecture video clips](https://drive.google.com/drive/folders/1CptCPprX9H4_z4Sc-XVPgwDQT1RtXEPi?usp=sharing)
 
@@ -17,7 +17,7 @@
 + [Kotlin Programming: The Big Nerd Ranch Guide 2nd Edition](https://www.amazon.com/Kotlin-Programming-Ranch-Guide-Guides-dp-0136891055/dp/0136891055)
 + [中文版](https://www.tenlong.com.tw/products/9789864344796?list_name=srh)
 
-## Lecture Notes
+## 2022 Spring Lecture Notes
 
 + [Lecture 1](https://hackmd.io/@truckski/rkMSYDVl9)
 + [Lecture 2](https://hackmd.io/@truckski/BkS91d4eq)
@@ -84,13 +84,18 @@
     +   [Slide 02](https://docs.google.com/presentation/d/19Uo-eXxBEV3qMivn3WycwK8cZvOEsMoO-0VaO4RtUXk/)
     +   [Slide 03](https://docs.google.com/presentation/d/10pTZtxkVamOfh9IOg-thwXdXptcZKvpaYOd69_w-hSY/)
     +   [Slide 04](https://docs.google.com/presentation/d/1dEHIDcqJ6J6Xew0TdsV7gPMRX-m9-vicDcm5aw2D9rI/)
-
+    
 ## Term Poject
+
+Write simple games
+1. Text version
+2. Android app
+## 2022 Spring Term Poject
 
 1. Text version: Nerdle mini
     + [Specification](https://hackmd.io/@r1235613/Bk34wi6f5)
     + [Resource](https://hackmd.io/@truckski/HJsGz2zX9)
-3. Android app: Wordle Variants
+2. Android app: Wordle Variants
     + [Specification](https://hackmd.io/@truckski/BJu2AngDc)
    
 ## Grading Policy
