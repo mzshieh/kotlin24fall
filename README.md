@@ -89,8 +89,10 @@
 ## Term Poject
 
 Write simple games
-1. Text version
+1. Text version W
+    + [Specification](https://hackmd.io/@truckski/H1siUbeHo)
 2. Android app
+
 ## 2022 Spring Term Poject
 
 1. Text version: Nerdle mini
