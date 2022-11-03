@@ -89,7 +89,7 @@
 ## Term Poject
 
 Write simple games
-1. Text version W
+1. Text version Wordle Helper
     + [Specification](https://hackmd.io/@truckski/H1siUbeHo)
     + [File Input Sample Code](https://github.com/mzshieh/kotlin22fall/blob/master/midterm_file_input_sample.kt)
 2. Android app
