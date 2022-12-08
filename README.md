@@ -92,7 +92,8 @@ Write simple games
 1. Text version Wordle Helper
     + [Specification](https://hackmd.io/@truckski/H1siUbeHo)
     + [File Input Sample Code](https://github.com/mzshieh/kotlin22fall/blob/master/midterm_file_input_sample.kt)
-2. Android app
+2. Android app: Nerdle mini
+    + [Specification](https://hackmd.io/@truckski/SkLBDAAvo)
 
 ## 2022 Spring Term Poject
 
