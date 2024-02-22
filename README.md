@@ -4,7 +4,7 @@
 +   Teaching Assistants: 
     +   [郭子緯](mailto:vincentinttsh.cs11@nycu.edu.tw) vincentinttsh.cs11@nycu.edu.tw
     +   [賴俊賓](mailto:xyz607xx@gmail.com) xyz607xx@gmail.com
-+   Lectures may be given online via [Google Meet](https://meet.google.com/ukj-mrcw-fyt) 
++   Lectures may be given online via [Google Meet](https://meet.google.com/ukj-mrcw-fyt)
 +   [Lecture video clips (2022 Fall)](https://drive.google.com/drive/folders/1uI6skDHG5pUrnisCxK_CqTJcfzz-hYOe?usp=sharing)
 +   [Lecture video clips (2022 Spring)](https://drive.google.com/drive/folders/1CptCPprX9H4_z4Sc-XVPgwDQT1RtXEPi?usp=sharing)
 
@@ -85,6 +85,16 @@
     +   [Slide 02](https://docs.google.com/presentation/d/19Uo-eXxBEV3qMivn3WycwK8cZvOEsMoO-0VaO4RtUXk/)
     +   [Slide 03](https://docs.google.com/presentation/d/10pTZtxkVamOfh9IOg-thwXdXptcZKvpaYOd69_w-hSY/)
     +   [Slide 04](https://docs.google.com/presentation/d/1dEHIDcqJ6J6Xew0TdsV7gPMRX-m9-vicDcm5aw2D9rI/)
+
+## Midterm 
+
+You must pass one of the following.
++ April 11: Implement a simple game.
++ April 18: Implement another simple game.
+
+## Final Project
+
+A simple game app running on Android. The specification will be given four weeks before the deadline.
     
 ## 2022 Fall Term Poject
 
@@ -106,4 +116,4 @@ Write simple games
 ## Grading Policy
 
 +   Pass: Being able to program
-+   Failure: Not being able to program
++   Fail: Not being able to program
