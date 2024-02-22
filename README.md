@@ -1,10 +1,10 @@
-# Kotlin Programming, 2022 Spring
+# Kotlin Programming, 2024 Spring
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nycu.edu.tw) mzshieh@nycu.edu.tw
 +   Teaching Assistants: 
     +   [郭子緯](mailto:vincentinttsh.cs11@nycu.edu.tw) vincentinttsh.cs11@nycu.edu.tw
     +   [賴俊賓](mailto:xyz607xx@gmail.com) xyz607xx@gmail.com
-+   Lectures will be given online via [Google Meet](https://meet.google.com/ukj-mrcw-fyt) 
++   Lectures may be given online via [Google Meet](https://meet.google.com/ukj-mrcw-fyt) 
 +   [Lecture video clips (2022 Fall)](https://drive.google.com/drive/folders/1uI6skDHG5pUrnisCxK_CqTJcfzz-hYOe?usp=sharing)
 +   [Lecture video clips (2022 Spring)](https://drive.google.com/drive/folders/1CptCPprX9H4_z4Sc-XVPgwDQT1RtXEPi?usp=sharing)
 
@@ -86,7 +86,7 @@
     +   [Slide 03](https://docs.google.com/presentation/d/10pTZtxkVamOfh9IOg-thwXdXptcZKvpaYOd69_w-hSY/)
     +   [Slide 04](https://docs.google.com/presentation/d/1dEHIDcqJ6J6Xew0TdsV7gPMRX-m9-vicDcm5aw2D9rI/)
     
-## Term Poject
+## 2022 Fall Term Poject
 
 Write simple games
 1. Text version Wordle Helper
