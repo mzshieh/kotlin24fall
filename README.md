@@ -18,6 +18,11 @@
 + [Kotlin Programming: The Big Nerd Ranch Guide 2nd Edition](https://www.amazon.com/Kotlin-Programming-Ranch-Guide-Guides-dp-0136891055/dp/0136891055)
 + [中文版](https://www.tenlong.com.tw/products/9789864344796?list_name=srh)
 
+## Lecture Notes
+
++ [Lecture 1](https://hackmd.io/@truckski/rkoEBa8TT)
++ [Lecture 2](https://hackmd.io/@truckski/SJWrLp8ap)
+
 ## 2022 Spring Lecture Notes
 
 + [Lecture 1](https://hackmd.io/@truckski/rkMSYDVl9)
