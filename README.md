@@ -5,6 +5,7 @@
     +   [郭子緯](mailto:vincentinttsh.cs11@nycu.edu.tw) vincentinttsh.cs11@nycu.edu.tw
     +   [賴俊賓](mailto:xyz607xx@gmail.com) xyz607xx@gmail.com
 +   Lectures may be given online via [Google Meet](https://meet.google.com/ukj-mrcw-fyt)
+    + [Recordings](https://drive.google.com/drive/folders/18S3DM6nxmcix_ZNMo8_V1jQl2_8BjQHD?usp=sharing)
 +   [Lecture video clips (2022 Fall)](https://drive.google.com/drive/folders/1uI6skDHG5pUrnisCxK_CqTJcfzz-hYOe?usp=sharing)
 +   [Lecture video clips (2022 Spring)](https://drive.google.com/drive/folders/1CptCPprX9H4_z4Sc-XVPgwDQT1RtXEPi?usp=sharing)
 
