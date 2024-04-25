@@ -25,6 +25,8 @@
 + [Lecture 2](https://hackmd.io/@truckski/SJWrLp8ap)
 + [Lecture 3](https://hackmd.io/@truckski/H1LzySt0p)
 + [Lecture 4](https://hackmd.io/@truckski/H1JzgrYC6)
++ [Lecture 5](https://hackmd.io/@truckski/B1vhuUvZR)
++ [Lecture 6](https://hackmd.io/@truckski/BJ4U5IwZ0)
 
 ## 2022 Spring Lecture Notes
 
