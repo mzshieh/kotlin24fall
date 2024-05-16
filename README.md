@@ -99,12 +99,13 @@
 ## Midterm 
 
 You must pass one of the following.
-+ April 11: Implement a simple game.
-+ April 18: Implement another simple game.
++ April 11: Solve several coding problems.
++ April 18: Solve several coding problems.
 
 ## Final Project
 
 A simple game app running on Android. The specification will be given four weeks before the deadline.
+- [Specification](https://hackmd.io/@0isyuUu4TOqG52ibBOddVg/SkV1aa626)
     
 ## 2022 Fall Term Poject
 
