@@ -2,12 +2,9 @@
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nycu.edu.tw) mzshieh@nycu.edu.tw
 +   Teaching Assistants: 
-    +   [郭子緯](mailto:vincentinttsh.cs11@nycu.edu.tw) vincentinttsh.cs11@nycu.edu.tw
-    +   [賴俊賓](mailto:xyz607xx@gmail.com) xyz607xx@gmail.com
+    +   TBD
 +   Lectures may be given online via [Google Meet](https://meet.google.com/ukj-mrcw-fyt)
-    + [Recordings](https://drive.google.com/drive/folders/18S3DM6nxmcix_ZNMo8_V1jQl2_8BjQHD?usp=sharing)
-+   [Lecture video clips (2022 Fall)](https://drive.google.com/drive/folders/1uI6skDHG5pUrnisCxK_CqTJcfzz-hYOe?usp=sharing)
-+   [Lecture video clips (2022 Spring)](https://drive.google.com/drive/folders/1CptCPprX9H4_z4Sc-XVPgwDQT1RtXEPi?usp=sharing)
+    + Recordings will be available
 
 ## Course Objectives
 
@@ -96,13 +93,17 @@
     +   [Slide 03](https://docs.google.com/presentation/d/10pTZtxkVamOfh9IOg-thwXdXptcZKvpaYOd69_w-hSY/)
     +   [Slide 04](https://docs.google.com/presentation/d/1dEHIDcqJ6J6Xew0TdsV7gPMRX-m9-vicDcm5aw2D9rI/)
 
-## Midterm 
+## Midterm
 
-You must pass one of the following.
-+ April 11: Solve several coding problems.
-+ April 18: Solve several coding problems.
+- Candidate 1: Computer-based exam with internet and generative AI. (Nov 21)
+- Candidate 2: A text version game project
+- Candidate 3: Solving designated problems on LeetCode or similar platform.
 
 ## Final Project
+
+A simple game app running on Android.
+
+## 2024 Spring Final Project
 
 A simple game app running on Android. The specification will be given four weeks before the deadline.
 - [Specification](https://hackmd.io/@0isyuUu4TOqG52ibBOddVg/SkV1aa626)
