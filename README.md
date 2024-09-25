@@ -2,7 +2,7 @@
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nycu.edu.tw) mzshieh@nycu.edu.tw
 +   Teaching Assistants: 
-    +   TBD
+    +   [Ting-Shiuan Guan](mailto:allen.c@nycu.edu.tw) allen.c@nycu.edu.tw
 +   Lectures may be given online via [Google Meet](https://meet.google.com/ukj-mrcw-fyt)
     + Recordings will be available
 
